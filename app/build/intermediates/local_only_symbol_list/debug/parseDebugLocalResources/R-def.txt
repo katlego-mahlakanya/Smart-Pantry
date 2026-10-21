@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+id btnAdd
+id btnBackPantry
+id btnDeleteItem
+id btnEditItem
+id btnRecipeBack
+id btnSave
+id btnSaveSettings
+id btnSettings
+id btnSettingsBack
+id btnSuggestions
+id checkExpiry
+id editExpiry
+id editName
+id editQuantity
+id editUnit
+id recipeContainer
+id recyclerPantry
+id txtFormTitle
+id txtItemDetails
+id txtItemName
+id txtPantryCount
+id txtRecipeHint
+id txtRecipeIngredients
+id txtRecipeName
+id txtRecipeSteps
+layout activity_main
+layout activity_pantry_form
+layout activity_recipe_detail
+layout activity_settings
+layout activity_suggested_recipes
+layout row_pantry_item
+style AppTheme

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.smartpantry.app-debug-25:/layout_activity_settings.xml.flat",
+        "source": "com.example.smartpantry.app-main-27:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-25:/layout_activity_pantry_form.xml.flat",
+        "source": "com.example.smartpantry.app-main-27:/layout/activity_pantry_form.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-25:/layout_activity_main.xml.flat",
+        "source": "com.example.smartpantry.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-25:/layout_activity_recipe_detail.xml.flat",
+        "source": "com.example.smartpantry.app-main-27:/layout/activity_recipe_detail.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-25:/layout_row_pantry_item.xml.flat",
+        "source": "com.example.smartpantry.app-main-27:/layout/row_pantry_item.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-25:/layout_activity_suggested_recipes.xml.flat",
+        "source": "com.example.smartpantry.app-main-27:/layout/activity_suggested_recipes.xml"
+    }
+]

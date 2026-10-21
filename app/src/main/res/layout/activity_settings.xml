@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="20dp">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Settings" android:textSize="25sp" android:textStyle="bold" android:textColor="#2E7D32"/>
+    <CheckBox android:id="@+id/checkExpiry" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Enable expiry-soon reminders" android:paddingTop="16dp"/>
+    <Button android:id="@+id/btnSaveSettings" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Save settings"/>
+    <Button android:id="@+id/btnSettingsBack" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Back to pantry"/>
+</LinearLayout>
