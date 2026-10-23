@@ -29,5 +29,3 @@ SQLite was chosen because this is a small, offline-first, single-user app. It re
 ## Strict-matching notes
 Ingredient names are normalized for common singular/plural forms. Quantities are compared only when the normalized units match; the app deliberately does not assume that grams equal pieces or convert between incompatible units. Duplicate pantry rows with the same normalized ingredient and unit are added together.
 
-## GitHub
-Create a public repository, commit the project in incremental steps, and push each meaningful change. Do not upload local secrets or generated build folders.
